@@ -75,3 +75,7 @@ Intermediate/*
 DerivedDataCache/*
 
 Content/Materials/m_outline\.uasset
+
+Config/DefaultEditor\.ini
+
+Config/DefaultEngine\.ini
