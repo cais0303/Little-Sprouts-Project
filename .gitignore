@@ -73,3 +73,15 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+Config/DefaultEngine.ini
+*.ini
+*.ini
+=======
+
+Content/Materials/m_outline\.uasset
+
+Config/DefaultEditor\.ini
+
+Config/DefaultEngine\.ini
+>>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
