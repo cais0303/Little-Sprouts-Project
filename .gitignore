@@ -75,10 +75,13 @@ Intermediate/*
 DerivedDataCache/*
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Config/DefaultEngine.ini
 *.ini
 *.ini
 =======
+=======
+>>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
 =======
 >>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
 
@@ -88,6 +91,9 @@ Config/DefaultEditor\.ini
 
 Config/DefaultEngine\.ini
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
+=======
 >>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
 =======
 >>>>>>> f6fbe7954b7503d0b6f5af085fb63ac8497c4c6a
